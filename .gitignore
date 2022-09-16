@@ -29,7 +29,5 @@ thumbs.db
 *.iws
 
 # Editor-based Rest Client
-.idea/httpRequests
-/.idea/csv-plugin.xml
 .idea
 /.github
